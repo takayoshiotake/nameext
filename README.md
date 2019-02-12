@@ -2,6 +2,8 @@
 
 ## Installation
 
+https://github.com/takayoshiotake/homebrew-tap
+
 ```
 $ brew tap takayoshiotake/tap
 $ brew install nameext
